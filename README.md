@@ -1,0 +1,2 @@
+# SmartSessionJS
+Javascript Session Plugin
