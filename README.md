@@ -5,7 +5,7 @@ Javascript Session Plugin
 Session.set(key,value);
 
 # Get
-Session.set(key);
+Session.get(key);
 
 # Remove
 Session.remove(key);
